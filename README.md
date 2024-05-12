@@ -21,3 +21,10 @@ rozluštil.
 </ul>
 <h2>Schema: </h2>
 <img src="https://github.com/X3ima/Petamentor/assets/168975371/a4a67719-d9e1-447e-b434-974893f5c7dd" alt="Schema zapojeni" width="300px">
+<h3>Po sestaveni a zapojeni veskerych dilu je potreba pripravit lahve k recyklaci a take udelat nebo koupit trysku s prumerem 1.75mm</h3>
+<ol>Priprava:
+  <li>Pomoci nastroje do lahve se napusti vzudch a tim se vytvori tlak v lahvi</li>
+  <li>Nad plynovou plotýnkou zahříváme a to do té doby než se láhev (plast) vyrovná.</li>
+  <li>U lahve urizneme dno (nejlepe rovne)</li>
+  <li>Nastrihneme petku tak aby jsme mneli tenky provazek ktery pujde protahnout tryskou</li>
+</ol>
