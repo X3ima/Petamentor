@@ -20,4 +20,4 @@ rozluštil.
   </li>
 </ul>
 <h2>Schema: </h2>
-![Scheme](https://github.com/X3ima/Petamentor/assets/168975371/a4a67719-d9e1-447e-b434-974893f5c7dd)
+<img src="https://github.com/X3ima/Petamentor/assets/168975371/a4a67719-d9e1-447e-b434-974893f5c7dd" alt="Schema zapojeni" width="300px">
