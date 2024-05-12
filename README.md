@@ -16,8 +16,9 @@ filamentu
   <li>Nastrihneme petku tak aby jsme mneli tenky provazek ktery pujde protahnout tryskou</li>
 </ol>
 <h2>Postup vyroby</h2>
-<h3>Lahev se da do "noze" a nakraji se pasek ktery by dosahnul az k civce pote se zapne zahrivani a zacne se tenky konec protahovat pres trysky nejlepe je drzet ho klestema aby jsme se ne popalili</h3>
-
+<h3>Lahev se da do "noze" a nakraji se pasek ktery by dosahnul az k civce pote se zapne zahrivani a zacne se tenky konec protahovat pres trysky nejlepe je drzet ho klestema aby jsme se ne popalili. Kdyz dotahneme nyt az k civce tak ho zavazeme za civku a zapneme navijeni, pote zkontrolujme navijeni aby zacatek byl pravidelny, nadale to muzeme nechat ale obcas je dobry zkontrolovat tloustuk filamentu zda li ma tvar nite popripade zvetsit sirku pasku.</h3>
+<img src="https://github.com/X3ima/Petamentor/assets/168975371/3785de1a-a406-4298-aa34-41fe7c7e09d7" alt="Nastroj" width="400px"><img src="https://github.com/X3ima/Petamentor/assets/168975371/3c919631-db01-4421-bac0-a4a91f2bfae1" alt="Lahev pred upravou" width="228px"><img src="https://github.com/X3ima/Petamentor/assets/168975371/3a3dd9b5-5050-43f5-b17a-7e5135d471be" alt="Lahev po uprave" width="360px">
+<pre>Nastroj pro pripravu lahvi                      Lahev pred upravou           Lahev po upravou</pre>
 <ul>Problemy: 
   <li>V první verzi jsem používal nůž pro krájení lahvi na pásek, hodně to skřípělo a většinou
 nefungovalo poté jsem vytisknul verzi s 2 ložiskem 
@@ -34,8 +35,7 @@ rozluštil.
 <h2>Schema: </h2>
 <img src="https://github.com/X3ima/Petamentor/assets/168975371/a4a67719-d9e1-447e-b434-974893f5c7dd" alt="Schema zapojeni" width="300px">
 
-<img src="https://github.com/X3ima/Petamentor/assets/168975371/3785de1a-a406-4298-aa34-41fe7c7e09d7" alt="Nastroj" width="400px"><img src="https://github.com/X3ima/Petamentor/assets/168975371/3c919631-db01-4421-bac0-a4a91f2bfae1" alt="Lahev pred upravou" width="228px"><img src="https://github.com/X3ima/Petamentor/assets/168975371/3a3dd9b5-5050-43f5-b17a-7e5135d471be" alt="Lahev po uprave" width="360px">
-<pre>Nastroj pro pripravu lahvi                      Lahev pred upravou           Lahev po upravou</pre>
+
 <h2>Testove tisky</h2>
 <img src="https://github.com/X3ima/Petamentor/assets/168975371/5ef73cf5-143c-41b6-9a96-ddbf4580b9bb" alt="PET kolecko" width="400px">
 <h3>Ozubeny kolecko. <br> tento tis se nepodaril a sve funkce nesplinl, protoze vrstvy se rozdelovali a nebyly dostatecne pevne coz znamena malou teplotu tisku ale ma tiskarna neumoznuje vyssi teplotu nez 260 stupnu</h3>
