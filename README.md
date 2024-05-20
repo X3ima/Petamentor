@@ -43,4 +43,4 @@ rozluštil.
 <h3>Zetony se podarily lip, vypadali a splnovali sve funkce, protoze na ne nepusobi zadna vnejsi sila, ktera by je poskodila a tiskli se pri male rychlosti.</h3>
 <h2>Zaver</h2>
 <h3>Recyklovany plast je nevhodny (v mem pripade) pro soucastky ktere budou mit nejakou funkcnost, protoze nemaji dostatecnou pevnost. Avsak tento plast je vhodny pro soucastky kosmeticke, takove jako nejake obaly, kryty, zetony a krabicky pro vsechno co nebude fungovat, a tim ze pro tyhle soucastky usetrite plast, ktery prave muzete vyuzit k tisku funkcnich soucastek.</h3>
-<h5>Zdroje: <br> https://www.thingiverse.com/thing</h5>
+<h5>Zdroje: <br>https://www.thingiverse.com/thing:5435208</h5>
